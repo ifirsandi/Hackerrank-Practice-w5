@@ -1,4 +1,4 @@
-# ifirsandi-Hackerrank-Practice-w5
+# Hackerrank-Practice-w5
 
 /**Practice 1 Tutorial info**/
 https://www.hackerrank.com/challenges/tutorial-intro/problem
